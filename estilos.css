@@ -21,7 +21,7 @@ background: #FEF6E4;
 header{ 
     height: 150px;
     align-content: center;
-    background: url (IMG/header\ fondo\ _Mesa\ de\ trabajo\ 1.svg) center center no-repeat ;
+    background: url(IMG/header\ fondo\ _Mesa\ de\ trabajo\ 1.svg) center center no-repeat ;
     background-size: cover;
 }
 .encabezado{ 
